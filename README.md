@@ -8,5 +8,5 @@
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,ts,py,php)](https://skillicons.dev)
 
-### FW/Lib/Tools
+### FW/DBMS/Lib/Tools
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,laravel,mysql,postgres,prisma,jest,aws,firebase,postman,docker,figma,ai,ps,discord)](https://skillicons.dev)
