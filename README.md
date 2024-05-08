@@ -6,7 +6,7 @@
 ## 技術スタック
 
 ### Programming Languages
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py)](https://skillicons.dev)
 
 ### FW/Lib/Tools
 
